@@ -11,20 +11,20 @@
 import type { SiteConfig } from '@/types';
 
 export const siteConfig: SiteConfig = {
-  name: 'Elena Voss',
+  name: 'Falchi',
   title: 'Astrologer and Tarot Reader',
   tagline:
-    'Readings that turn a hard season into a clear next step, grounded in your birth chart and read with you, never at you.',
+    'Readings for clarity & direction.',
   siteUrl: 'https://spiritual-practitioner-website-template.vercel.app',
 
   photo: {
     src: '/portrait.jpg',
-    alt: 'Elena Voss, astrologer and tarot reader',
+    alt: 'Falchi, astrologer and tarot reader',
   },
 
   bio: {
     short:
-      'You are not looking for a prediction. You are looking for language for what you already sense. I read birth charts and tarot for people in the middle of a decision, and I stay with the practical question underneath the symbols.',
+      'I read birth charts and tarot for the good of collective.',
     long: [
       'Most people arrive at a reading holding one question they have not been able to say out loud. A job that looks right and feels wrong. A relationship that keeps repeating one argument. A move they cannot decide is brave or reckless. The chart does not answer that question for you. It gives you the shape of it, and once you can see the shape, the decision usually stops feeling impossible.',
       'I have been reading charts for twelve years, and tarot for longer than that. My training is traditional: Hellenistic technique for the natal work, Marseille and Waite for the cards. My approach is plain. I will not tell you that a transit is doing something to you. I will show you what season you are in, what it tends to ask of people, and what you can actually do with it.',
@@ -57,7 +57,7 @@ export const siteConfig: SiteConfig = {
       price: '$95',
     },
     {
-      name: 'Year Ahead Forecast',
+      name: 'One Year Forecast',
       description:
         'Your solar return and the transits that carry it, mapped month by month, with the two or three windows that matter marked clearly. Best booked near your birthday.',
       duration: '90 minutes',
@@ -69,19 +69,19 @@ export const siteConfig: SiteConfig = {
     {
       quote:
         'I came in expecting to be told what would happen. Instead I left able to explain, for the first time, why I had been stuck in the same year three times over.',
-      name: 'Marta R.',
+      name: 'Ardeshir.',
       detail: 'Birth chart reading',
     },
     {
       quote:
-        'Elena is exact and she is kind, in that order. She did not soften the part I needed to hear, and she did not leave me alone with it either.',
-      name: 'Jonah B.',
+        'Falchi is exact and she is kind, in that order. She did not soften the part I needed to hear, and she did not leave me alone with it either.',
+      name: 'Kamila',
       detail: 'Year ahead forecast',
     },
     {
       quote:
         'I have had readings that felt like a performance. This felt like a conversation with someone who had done the homework on me.',
-      name: 'Priya N.',
+      name: 'Sophie',
       detail: 'Tarot session',
     },
   ],
