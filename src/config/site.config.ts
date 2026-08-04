@@ -12,28 +12,28 @@ import type { SiteConfig } from '@/types';
 
 export const siteConfig: SiteConfig = {
   name: 'Falchi',
-  title: 'Astrologer and Tarot Reader',
+  title: 'Tarot Reader and Astrologer',
   tagline:
     'Readings for clarity & direction.',
   siteUrl: 'https://spiritual-practitioner-website-template.vercel.app',
 
   photo: {
     src: '/portrait.jpg',
-    alt: 'Falchi, astrologer and tarot reader',
+    alt: 'Falchi, Tarot Reader and Astrologerr',
   },
 
   bio: {
     short:
-      'I read birth charts and tarot for the good of collective.',
+      'Experienced Tarot Reader and Astrologer with specialty in collective and individual readings.',
     long: [
-      'Most people arrive at a reading holding one question they have not been able to say out loud. A job that looks right and feels wrong. A relationship that keeps repeating one argument. A move they cannot decide is brave or reckless. The chart does not answer that question for you. It gives you the shape of it, and once you can see the shape, the decision usually stops feeling impossible.',
-      'I have been reading charts for twelve years, and tarot for longer than that. My training is traditional: Hellenistic technique for the natal work, Marseille and Waite for the cards. My approach is plain. I will not tell you that a transit is doing something to you. I will show you what season you are in, what it tends to ask of people, and what you can actually do with it.',
-      'I read for people in fourteen countries, in English, over video. Sessions are recorded so you can come back to them, because nobody remembers a reading properly while they are inside it. If you are unsure which session fits, write to me and describe the question. I will tell you honestly if a reading is the wrong tool for it.',
+      ' Tarot and astrology, when used in tandem, can give us answers, shed light on current circumstances, and predict our future timelines so that we can move into the future with the insight we need to grow into our highest versions.',
+      ' We can use these tools to predict the energy of upcoming seasons of life and gain answers to complex internal questions that the 3D world often does not easily show us. Together we explore the unseen patterns of life that guide us.',
+      ' These offered readings can help us make decisions that serve our highest good. ',
     ],
   },
 
-  email: 'hello@example.com',
-  location: 'Lisbon, Portugal',
+  email: 'ill put an email here later',
+  location: 'Miami, FL, USA',
 
   socials: [
     { label: 'Instagram', href: 'https://instagram.com/' },
@@ -43,59 +43,60 @@ export const siteConfig: SiteConfig = {
 
   services: [
     {
-      name: 'Birth Chart Reading',
+      name: 'Astrology Insight Reading: Synastry, Natal, Nodes, Asteriods, and Transits',
       description:
-        'The full natal chart, read from the ground up. Where your strengths sit, what keeps repeating, and what the next two years are shaped like. Best for a first session, or a reset.',
-      duration: '75 minutes',
-      price: '$180',
+        'Together we will explore future trasits, life directions, and places of power within the natal chart.',
+      duration: '25 minutes',
+      price: '$60',
     },
     {
       name: 'Tarot Session',
       description:
-        'One question, opened properly. We lay the cards on the decision you are actually facing and stay with it until the next step is concrete rather than comforting.',
-      duration: '45 minutes',
-      price: '$95',
+        'Together we will explore current and future energies to gain insight.',
+      duration: '25 minutes',
+      price: '$60',
     },
     {
-      name: 'One Year Forecast',
+      name: 'Tarot Session and Astrology Insight Combination',
       description:
-        'Your solar return and the transits that carry it, mapped month by month, with the two or three windows that matter marked clearly. Best booked near your birthday.',
-      duration: '90 minutes',
-      price: '$240',
+        'Together we will use date of birth and tarot cards together to gain insight on future life direction and answer any questions you',
+      duration: '40 minutes',
+      price: '$80',
     },
   ],
 
   testimonials: [
     {
       quote:
-        'I came in expecting to be told what would happen. Instead I left able to explain, for the first time, why I had been stuck in the same year three times over.',
+        'Phenomenal... I am now certain that the guidance you need really finds you at the exact time you need it.',
       name: 'Ardeshir.',
-      detail: 'Birth chart reading',
+      detail: 'Tarot Session',
     },
     {
       quote:
-        'Falchi is exact and she is kind, in that order. She did not soften the part I needed to hear, and she did not leave me alone with it either.',
+        'Falchi is scary accurate, thank you so much.',
       name: 'Kamila',
-      detail: 'Year ahead forecast',
+      detail: 'Tarot Session and Astrology Insight Reading',
     },
     {
       quote:
-        'I have had readings that felt like a performance. This felt like a conversation with someone who had done the homework on me.',
+        'I never knew astrology could tell us so much, feeling excited and prepared for the future.',
       name: 'Sophie',
-      detail: 'Tarot session',
+      detail: 'Astrology Insight Reading'
+      ,
     },
   ],
 
   stats: [
-    { value: '12 years', label: 'Reading professionally' },
-    { value: '2,400+', label: 'Sessions given' },
-    { value: '14', label: 'Countries' },
+    { value: '11 years', label: 'Reading professionally' },
+    { value: '2,000+', label: 'Sessions given' },
+    { value: '16', label: 'Countries' },
   ],
 
   announcement: 'Booking is open for August. Two chart reading slots left.',
 
   newsletter: {
-    label: 'A letter each new moon',
+    label: 'Ill insert a title here later',
     href: 'https://substack.com/',
   },
 
@@ -103,12 +104,12 @@ export const siteConfig: SiteConfig = {
     {
       question: 'What do I need to bring to a reading?',
       answer:
-        'Your birth date, birth time, and birth city. The time matters more than people expect: it sets the houses, which is most of what makes a chart yours rather than generic. Look for it on your birth certificate or ask a parent. If it is truly unavailable, say so when you book and we will work with what we have.',
+        'For tarot sessions, just your questions. For Combination and Astrology Insight readings: Your birth date, birth city, and preferably birth time. We can reverse engineer an estimated birth time within two hours of accuracy if birth time is unknown, but it is not ideal.',
     },
     {
       question: 'Which session should I choose?',
       answer:
-        'If we have never worked together, start with the birth chart reading. It is the foundation everything else stands on. Choose the tarot session when you have one specific decision in front of you, and the year ahead forecast when the question is about timing rather than meaning.',
+        'If uncertain, choose the combination reading; It is a safe choice to ensure the fullest picture',
     },
     {
       question: 'What actually happens in the session?',
@@ -118,17 +119,17 @@ export const siteConfig: SiteConfig = {
     {
       question: 'Is this going to predict my future?',
       answer:
-        'No, and be careful of anyone who says otherwise. A chart describes conditions and tendencies, the way a forecast describes weather. It tells you what season you are in and what that season tends to ask of people. What you do inside it stays yours.',
+        'We will explore the energy and themes predicted for the future, yes. The future is yours to create and free will is yours to explore, nothing is set in stone, but together we can explore future timelines, yes.',
     },
     {
       question: 'Can you tell me about my health, my legal case, or my finances?',
       answer:
-        'No. Readings are for reflection, not for medical, legal, or financial advice, and I will always say so rather than guess. If a question needs a doctor, a lawyer, or an accountant, that is who it needs.',
+        'For heavy themes such as this, the primary advice is to seek a professional from that specific field, but yes we are able to explore the energy of these themes to gain insight so you can continue to make the best possible choices for your life.',
     },
     {
       question: 'What if I need to reschedule?',
       answer:
-        'Move the booking yourself using the link in your confirmation email, any time up to 24 hours before we meet. Inside 24 hours, write to me and we will find another slot. Life happens and I would rather you came to the session when you can be present for it.',
+        'If needed, you can reschedule the booking using the link in your confirmation email, any time up to 24 hours before our session.',
     },
   ],
 
