@@ -46,22 +46,22 @@ export const siteConfig: SiteConfig = {
       name: 'Astrology Insight Reading: Synastry, Natal, Nodes, Asteriods, and Transits',
       description:
         'Together we will explore future trasits, life directions, and places of power within the natal chart.',
-      duration: '25 minutes',
-      price: '$60',
+      duration: 'ill decide later the minutes',
+      price: 'ill put price later',
     },
     {
       name: 'Tarot Session',
       description:
         'Together we will explore current and future energies to gain insight.',
-      duration: '25 minutes',
-      price: '$60',
+      duration: 'ill decide later the minutes',
+      price: 'ill put price later',
     },
     {
       name: 'Tarot Session and Astrology Insight Combination',
       description:
         'Together we will use date of birth and tarot cards together to gain insight on future life direction and answer any questions you',
-      duration: '40 minutes',
-      price: '$80',
+      duration: 'ill decide later the minutes',
+      price: 'ill put price later',
     },
   ],
 
@@ -80,7 +80,7 @@ export const siteConfig: SiteConfig = {
     },
     {
       quote:
-        'I never knew astrology could tell us so much, feeling excited and prepared for the future.',
+        'I never knew astrology could tell us so much- feeling prepared for the future.',
       name: 'Sophie',
       detail: 'Astrology Insight Reading'
       ,
@@ -93,7 +93,7 @@ export const siteConfig: SiteConfig = {
     { value: '16', label: 'Countries' },
   ],
 
-  announcement: 'Booking is open for August. Two chart reading slots left.',
+  announcement: 'Booking is open for August.',
 
   newsletter: {
     label: 'Ill insert a title here later',
@@ -140,7 +140,7 @@ export const siteConfig: SiteConfig = {
    */
   booking: {
     provider: 'calcom',
-    url: '',
+    url: 'ill insert a url here later',
   },
 
   /**
