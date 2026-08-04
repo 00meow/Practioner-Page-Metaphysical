@@ -19,7 +19,7 @@ export const siteConfig: SiteConfig = {
 
   photo: {
     src: '/portrait.jpg',
-    alt: 'Falchi, Tarot Reader and Astrologerr',
+    alt: 'Falchi, Tarot Reader and Astrologer',
   },
 
   bio: {
@@ -69,7 +69,7 @@ export const siteConfig: SiteConfig = {
     {
       quote:
         'Phenomenal... I am now certain that the guidance you need really finds you at the exact time you need it.',
-      name: 'Ardeshir.',
+      name: 'A.B.',
       detail: 'Tarot Session',
     },
     {
