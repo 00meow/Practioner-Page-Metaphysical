@@ -139,7 +139,7 @@ export const siteConfig: SiteConfig = {
    * @remarks `url` ships empty on purpose. While it is empty the booking page shows a short setup card instead of a broken embed, so the site is presentable before you have a scheduling account. Paste the public link (for example `https://cal.com/your-name/reading`) and the scheduler appears. Comparison of the two providers: `docs/integrations.md`.
    */
   booking: {
-    provider: 'calcom',
+    provider: 'calendy',
     url: 'ill insert a url here later',
   },
 
@@ -149,7 +149,7 @@ export const siteConfig: SiteConfig = {
    * @remarks Get one free at web3forms.com; it is emailed to you in a minute. This key is publishable by design (it only routes mail to one inbox), which is why it lives here rather than in an environment variable, and why deploying this site needs exactly one secret. Until you replace the placeholder the form renders but tells the visitor it is not connected.
    */
   contact: {
-    web3formsKey: 'YOUR_WEB3FORMS_ACCESS_KEY',
+    web3formsKey: 'ill insert a key here later',
   },
 
   /**
@@ -169,7 +169,7 @@ export const siteConfig: SiteConfig = {
    * palette: 'moonlit',
    * ```
    */
-  palette: 'rosewater',
+  palette: 'eucalyptus',
 
   /**
    * Which free readings the site offers. Every one is on by default.
@@ -178,11 +178,11 @@ export const siteConfig: SiteConfig = {
    */
   readings: {
     birthChart: true,
-    horoscope: true,
+    horoscope: false,
     compatibility: true,
-    lifePath: true,
+    lifePath: false,
     tarot: true,
-    humanDesign: true,
-    cardOfTheDay: true,
+    humanDesign: false,
+    cardOfTheDay: false,
   },
 };
