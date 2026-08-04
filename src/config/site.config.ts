@@ -114,17 +114,17 @@ export const siteConfig: SiteConfig = {
     {
       question: 'What actually happens in the session?',
       answer:
-        'We meet on video for the booked time. I have already read your chart before we start, so we spend the session in conversation rather than in silence while I work. You can interrupt, disagree, and ask me to slow down at any point. You get the recording afterwards.',
+        'We meet on video for the booked time. I have already read your chart before we start',
     },
     {
       question: 'Is this going to predict my future?',
       answer:
-        'We will explore the energy and themes predicted for the future, yes. The future is yours to create and free will is yours to explore, nothing is set in stone, but together we can explore future timelines, yes.',
+        'We will explore the energy and themes predicted for the future, yes. The future is yours to create and free will is yours to explore, nothing is set in stone, but together we can explore future timelines.',
     },
     {
       question: 'Can you tell me about my health, my legal case, or my finances?',
       answer:
-        'For heavy themes such as this, the primary advice is to seek a professional from that specific field, but yes we are able to explore the energy of these themes to gain insight so you can continue to make the best possible choices for your life.',
+        'For heavy themes such as this, the primary advice is to seek professional advice, but yes we are able to explore the energy of these themes to gain insight so you can continue to make the best possible choices for your life.',
     },
     {
       question: 'What if I need to reschedule?',
